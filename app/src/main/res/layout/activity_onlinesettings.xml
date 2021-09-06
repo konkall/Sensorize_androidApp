@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.collisiondetector.project_anaptujh.Settings.OnlineModeSettings" >
+
+    <SeekBar
+        android:id="@+id/frequency_seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="1000"
+        android:paddingTop="0dp"
+        android:layout_below="@+id/light"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="21dp" />
+
+
+    <TextView
+        android:id="@+id/light"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:text="FREQUENCY"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:textStyle="bold|italic" />
+
+
+    <TextView
+        android:id="@+id/textfrequency"
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/light"
+        android:layout_centerHorizontal="true" />
+
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginTop="14dp"
+        android:layout_below="@+id/frequency_seekBar"
+        android:layout_alignParentStart="true">
+        <TextView
+            android:id="@+id/label1"
+            android:paddingLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="20" />
+        <TextView
+            android:id="@+id/Label2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="490" />
+
+        <TextView
+            android:id="@+id/Label3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:text="1000"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/iptext"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:paddingTop="110dp"
+        android:paddingLeft="10dp"
+        android:text="Ip"
+        android:layout_width="wrap_content" />
+
+
+    <EditText
+        android:id="@+id/port"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:layout_below="@+id/porttext"
+        android:layout_alignParentStart="true">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/ip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/iptext"
+        android:layout_alignParentStart="true">
+
+    </EditText>
+
+    <TextView
+        android:id="@+id/porttext"
+        android:layout_height="wrap_content"
+        android:paddingTop="170dp"
+        android:paddingLeft="10dp"
+        android:text="Port"
+        android:layout_width="wrap_content"
+        android:textStyle="bold|italic"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="18dp" />
+
+</RelativeLayout>

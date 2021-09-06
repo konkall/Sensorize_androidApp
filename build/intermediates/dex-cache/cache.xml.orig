@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ff9704e739317316202628096f30e06c0c1f6b59">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3d9d5317a9231c3d66557fc712a885691ea8cf43/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.0.2_d7ccd710c99639f80edac5331fc1a634ce4134f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1aa2d7671b46b0f5b3b906e59e5f83bfbe10c864/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.eclipse.paho.client.mqttv3-1.0.2_d7ccd710c99639f80edac5331fc1a634ce4134f3/classes.dex" />
+<<<<<<< HEAD
+=======
+=======
+        jar="/home/konstantinos/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.eclipse.paho.client.mqttv3-1.0.2_d7ccd710c99639f80edac5331fc1a634ce4134f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1aa2d7671b46b0f5b3b906e59e5f83bfbe10c864/classes.dex" />
+>>>>>>> 55ecc7e89a836165ef8768c52b3a7a678d5ca2b5
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_10d98c5264463e84c0e347755e752275acb2bfa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6a7b042f3bcc5c75ded28859c35a07776d983be2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_5a791c9e434f05bd01cd524bef3589e0edde32b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 55ecc7e89a836165ef8768c52b3a7a678d5ca2b5
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_e25ebaf81f3835232f380a8d01bb62be30cd24cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_34b90fe4971498dc8ee4aa92d8994d18a2e3a000.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a412c190bc8e87678a48926aa35673cf77261686">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d3acf076bb7f207c3bd54c07a4f11ed3f6d3580f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6071cfc53f2eab2e8f0a4f025832651e23156175/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_016ea392e9afde4d731919ee4440dd47e820f102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_2be076dba79094927713dbf50a5b431d6721c07b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_30bd6f1b5b2cdb079fb557c86f3396c356ef7ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ca8a7df8aba2ca201f97dd28128381ae3364f10e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e9bfdf77ff4b039d23aeadcc43a9dfc8ab782679/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_2be076dba79094927713dbf50a5b431d6721c07b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_52deddbba04f85a2a9daff8644f7c0a79b3bc437.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_ca89a877914932ea8e6c2a65d7fae9253348a249/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_0257496fc0f464e47931b5706018b3f61897d631.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_6985fb8a8454b648ba4c6334e1d25dfbe1f6ad93/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_50255cebebe811eb139d38a1d83fb0326fb3bbc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_682947299ec9ccf5187dda5006935654321487eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_d0bd93046f1a25a878ffcb898e9aed9c12690b4c.jar" />
+<<<<<<< HEAD
+=======
+=======
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_d0bd93046f1a25a878ffcb898e9aed9c12690b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_682947299ec9ccf5187dda5006935654321487eb.jar" />
+>>>>>>> 55ecc7e89a836165ef8768c52b3a7a678d5ca2b5
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3ce96e123261d8558665d32913e98589bed62598/classes.dex" />
+    </item>
+    <item
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_d9572d6e8326315848a446d8b00163c1a674d2fb.jar" />
+    </item>
+    <item
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 55ecc7e89a836165ef8768c52b3a7a678d5ca2b5
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_893e84aa1d2c3227feac0481a3209f3490a7122e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.0.2/2d956522c556caeb35148445ecd059ebe67331f6/org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2d956522c556caeb35148445ecd059ebe67331f6">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.eclipse.paho.android.service-1.0.2_164c7cc4f6e955e586b1084cfaccc95375c21795/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_082d060e2b571cd944136f4a3a037353cc0b2d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fe9fd3b8a8db068b842e36067e82ebc7443d0272.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_5bf4a29755a859a76269fd2c9248b3de5e524cb8/classes.dex" />
+    </item>
+    <item
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_a841505c6922259ce23c41fdb2842db4406bbf19.jar" />
+    </item>
+    <item
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 55ecc7e89a836165ef8768c52b3a7a678d5ca2b5
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_7ba6875721ed1c9931f7c31e2fbf9be1830edc46/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.0.2/2d956522c556caeb35148445ecd059ebe67331f6/org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2d956522c556caeb35148445ecd059ebe67331f6">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.0.2_164c7cc4f6e955e586b1084cfaccc95375c21795.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d0e2741f850f43bad2dc711aac343aadc36505fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_d9dc0a447316a133e910acb47577e778988262a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6a871c4e71601e5260ad8cc18fa569dce220f491/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_5c58b279dbf744a7dedaf6d66c6433d9fa7b705b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/konstantinos/Desktop/Project_anaptujh/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_8cdcc2133f156ce3f49c8643a3298f1c92da7c39/classes.dex" />
+    </item>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+    <item
+        is-multidex="false"
+        jar="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/konstantinos/Desktop/backup/Project_anaptujh/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_9d08c39ce481ef82eb24b77ea52555eb418908b4.jar" />
+    </item>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 55ecc7e89a836165ef8768c52b3a7a678d5ca2b5
+>>>>>>> 917e4824c66ded662fd6c3f860655212f7540b37
+
+</items>

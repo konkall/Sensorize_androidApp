@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:example4="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/Menu"
+        android:icon="@drawable/home"
+        example4:showAsAction="always"
+        android:title="Options">
+
+       <menu>
+            <item
+             android:id="@+id/settings_id"
+            android:title="Android settings"
+            android:icon="@drawable/settings"
+            example4:showAsAction="always"/>
+
+            <item
+            android:id="@+id/exit_id"
+            android:title="exit"
+            android:icon="@drawable/exit"
+            example4:showAsAction="always"/>
+</menu>
+    </item>
+    </menu>
+
