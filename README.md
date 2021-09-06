@@ -1,4 +1,4 @@
-#Sensorize
+# Sensorize
 An android app called "Sensorize" that was developed as an assignment for the DIT course "Software development for Networks and Telecommunications".
 
 In this assignment we developed an Android app that assists individuals with vision impairment in their daily navigation. Specifically, this app utilizes the android sensors
